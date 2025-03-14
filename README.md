@@ -40,38 +40,3 @@ The app will be available at [http://localhost:5173](http://localhost:5173).
 │   └── index.html
 └── package.json
 ```
-
-## 🛠️ Technologies Used
-- React
-- Vite
-- CSS
-- Remote Movie API
-
-## 🤝 Contributing
-1. Fork the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Create a pull request
-
-## 📄 License
-This project is licensed under the MIT License.
-
-## 🙌 Acknowledgements
-- [Vite](https://vitejs.dev/)
-- [React](https://reactjs.org/)
-
-## 📧 Contact
-Created by [Mohammad Imran](https://github.com/Mohammad-Imran01). Feel free to reach out!
-
----
-
