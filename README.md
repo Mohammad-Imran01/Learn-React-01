@@ -1,12 +1,77 @@
-# React + Vite
+# 🎬 Movie Tile Shower Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and simple web app that displays movie tiles by fetching data from a remote API, built with React and Vite.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Fetches movie data from a remote API
+- Displays movie titles in a clean, responsive grid layout
+- Built with React and Vite for fast development and hot module replacement (HMR)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Getting Started
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Node.js and npm installed on your system
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mohammad-Imran01/Learn-React-01
+   cd movie-tile-shower
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the App
+```bash
+npm run dev
+```
+The app will be available at [http://localhost:5173](http://localhost:5173).
+
+## 📁 Project Structure
+```
+├── src
+│   ├── components
+│   │   └── MovieTile.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── public
+│   └── index.html
+└── package.json
+```
+
+## 🛠️ Technologies Used
+- React
+- Vite
+- CSS
+- Remote Movie API
+
+## 🤝 Contributing
+1. Fork the repository
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to your fork:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Create a pull request
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 🙌 Acknowledgements
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+
+## 📧 Contact
+Created by [Mohammad Imran](https://github.com/Mohammad-Imran01). Feel free to reach out!
+
+---
+
